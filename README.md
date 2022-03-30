@@ -1,10 +1,8 @@
 # Nerd Font-Friendly Nonicons
 
 ## This is a fork
-This is a fork of the work done by [yamatsum](https://github.com/yamatsum/nonicons).
-
 The goal here is to update the mappings so that the nonicon glyphs do not conflict with the glyph codepoints set by FontAwesome/Nerd-Patched fonts
-Once the yamatsum's repo supports dynamically assigning codepoints, this fork will become irrelevant.
+Once the the original repo supports dynamically assigning codepoints, this fork will become irrelevant.
 
 See also: [nvim-nonicons](https://github.com/arnamak/nvim-nonicons)
 
